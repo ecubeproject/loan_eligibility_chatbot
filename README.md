@@ -71,4 +71,31 @@ This chatbot was developed using **real-world data** from a US financial institu
 ---
 
 ## 📂 Folder Structure
+---
+
+## 📦 Setup Instructions
+
+```bash
+# Clone repo
+git clone https://github.com/yourusername/LoanEligibilityChatbot.git
+cd LoanEligibilityChatbot
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # For Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch Streamlit app
+streamlit run app/app.py
+---
+📜 License
+
+This repository is made available for educational and non-commercial use only. Please contact ecube.analytics@gmail.com for licensing or collaboration inquiries.
+🙋‍♂️ Author & Contact
+
+Tejas Desai
+LinkedIn: [https://www.linkedin.com/in/tejasddesaiindia/]
+email: [https://aimldstejas@gmail.com]
 

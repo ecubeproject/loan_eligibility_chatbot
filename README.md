@@ -71,6 +71,9 @@ This chatbot was developed using **real-world data** from a US financial institu
 ---
 
 ## 📂 Folder Structure
+The folder structure of this project is shown below:
+
+![Directory Structure](directory_structure.png)
 ---
 
 ## 📦 Setup Instructions
